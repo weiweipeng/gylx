@@ -1,0 +1,36 @@
+{
+	"lists":[{
+                   "img1": "static/img/teacherDetail/1.png",
+                   "title": "王芝林",
+                   "classes":"拉丁舞、民族舞、排舞",
+                   "detail":"十年的舞龄，专业的舞蹈编排，六年的教龄，擅长拉丁舞、民族舞等舞蹈，多次参加大型商业演出",
+                   "count": 2333,
+                   "read": 13666,
+                   "zannum": 1345
+               },{
+                   "img1": "static/teacherDetail/2.png",
+                   "title": "李永健",
+                   "classes":"羽毛球、兵乓球",
+                   "detail":"国家二级运动员，羽毛球金牌教练，乒乓球执教教练，近十年的运动项目执教经验，曾担任大学羽毛球老师",
+                   "count": 2333,
+                   "read": 13666,
+                   "zannum": 1345
+               },{
+                   "img1": "static/teacherDetail/3.png",
+                   "title": "姜维",
+                   "classes":"油画、素描",
+                   "detail":"具有丰富的美术教学经验，曾师从齐白石一门，张子继弟子宋中华老先生，深喑水墨韵味，本人教育经验丰富",
+                   "count": 2333,
+                   "read": 13666,
+                   "zannum": 1345
+               },{
+                   "img1": "static/assets/classes/4.png",
+                   "title": "林依轮",
+                   "classes":"吉他",
+                   "detail":"具有丰富的美术教学经验，曾师从齐白石一门，张子继弟子宋中华老先生，深喑水墨韵味，本人教育经验丰富",
+                   "count": 2333,
+                   "read": 13666,
+                   "zannum": 1345
+               }]
+               
+}

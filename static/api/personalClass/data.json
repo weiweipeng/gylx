@@ -1,0 +1,37 @@
+{
+  "list":[
+    {
+      "imgurl":"static/img/classes/1.png",
+      "title":"拉丁舞",
+      "partake":"88659",
+      "synopsis":"主要讲解拉丁舞的初级动作及相关要领，快速帮助学员掌握舞蹈等等等等等",
+      "isfree":"0",
+      "browsenum":"13245",
+      "praisenum":"5462",
+      "isZan":false,
+      "isCollect":true
+    },
+    {
+      "imgurl": "static/img/classes/2.png",
+      "title": "拉丁舞",
+      "partake": "88659",
+      "synopsis": "主要讲解拉丁舞的初级动作及相关要领，快速帮助学员掌握舞蹈等等等等等",
+      "isfree": "1",
+      "browsenum": "13245",
+      "praisenum": "5462",
+      "isZan":true,
+      "isCollect":false
+    },
+    {
+      "imgurl": "static/img/classes/3.png",
+      "title": "拉丁舞",
+      "partake": "88659",
+      "synopsis": "主要讲解拉丁舞的初级动作及相关要领，快速帮助学员掌握舞蹈等等等等等",
+      "isfree": "1",
+      "browsenum": "13245",
+      "praisenum": "5462",
+      "isZan":true,
+      "isCollect":false
+    }
+  ]
+}
